@@ -1,0 +1,11 @@
+.env
+.env.development
+docker-compose.yaml
+Dockerfile.dev
+DS_Store
+Makefile
+README.md
+Jenkinsfile
+go.mod
+go.sum
+infra/databases/migrations
